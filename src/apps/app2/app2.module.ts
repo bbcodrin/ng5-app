@@ -14,4 +14,4 @@ import { App2Component } from './app2.component';
   providers: [],
   bootstrap: [App2Component]
 })
-export class AppModule { }
+export class App2Module { }
